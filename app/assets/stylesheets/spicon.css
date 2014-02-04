@@ -1,0 +1,65 @@
+@keyframes "spin" {
+ 0% {
+    border-radius: 0px;
+ }
+ 100% {
+    border-radius: 50%;
+    -webkit-transform: rotate(1000deg);
+    -moz-transform: rotate(1000deg);
+    -o-transform: rotate(1000deg);
+    -ms-transform: rotate(1000deg);
+    transform: rotate(1000deg);
+ }
+}
+
+@-moz-keyframes spin {
+ 0% {
+   border-radius: 0px;
+ }
+ 100% {
+   border-radius: 50%;
+   -moz-transform: rotate(1000deg);
+   transform: rotate(1000deg);
+ }
+}
+
+@-webkit-keyframes "spin" {
+ 0% {
+   border-radius: 0px;
+ }
+ 100% {
+   border-radius: 50%;
+   -webkit-transform: rotate(1000deg);
+   transform: rotate(1000deg);
+ }
+}
+
+@-ms-keyframes "spin" {
+ 0% {
+   border-radius: 0px;
+ }
+ 100% {
+   border-radius: 50%;
+   -ms-transform: rotate(1000deg);
+   transform: rotate(1000deg);
+ }
+}
+
+@-o-keyframes "spin" {
+ 0% {
+   border-radius: 0px;
+ }
+ 100% {
+   border-radius: 50%;
+   -o-transform: rotate(1000deg);
+   transform: rotate(1000deg);
+ }
+}
+
+.spicon {
+	-webkit-animation: spin 2s infinite alternate;
+	-moz-animation: spin 2s infinite alternate;
+	-ms-animation: spin 2s infinite alternate;
+	-o-animation: spin 2s infinite alternate;
+	animation: spin 2s infinite alternate;
+}
