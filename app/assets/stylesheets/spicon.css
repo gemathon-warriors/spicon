@@ -70,6 +70,14 @@
 
 /* Spicon 1s-x-normal classes */
 
+.spicon-1s-1-normal {
+  -webkit-animation: spin 1s 1 normal;
+  -moz-animation: spin 1s 1 normal;
+  -ms-animation: spin 1s 1 normal;
+  -o-animation: spin 1s 1 normal;
+  animation: spin 1s 1 normal;
+}
+
 .spicon-1s-2-normal {
   -webkit-animation: spin 1s 2 normal;
   -moz-animation: spin 1s 2 normal;
@@ -111,6 +119,14 @@
 }
 
 /* Spicon 1s-x-reverse classes */
+
+.spicon-1s-1-reverse {
+  -webkit-animation: spin 1s 1 reverse;
+  -moz-animation: spin 1s 1 reverse;
+  -ms-animation: spin 1s 1 reverse;
+  -o-animation: spin 1s 1 reverse;
+  animation: spin 1s 1 reverse;
+}
 
 .spicon-1s-2-reverse {
   -webkit-animation: spin 1s 2 reverse;
@@ -154,6 +170,14 @@
 
 /* Spicon 1s-x-alternate classes */
 
+.spicon-1s-1-alternate {
+  -webkit-animation: spin 1s 1 alternate;
+  -moz-animation: spin 1s 1 alternate;
+  -ms-animation: spin 1s 1 alternate;
+  -o-animation: spin 1s 1 alternate;
+  animation: spin 1s 1 alternate;
+}
+
 .spicon-1s-2-alternate {
   -webkit-animation: spin 1s 2 alternate;
   -moz-animation: spin 1s 2 alternate;
@@ -195,6 +219,14 @@
 }
 
 /* Spicon 1s-x-alternate_reverse classes */
+
+.spicon-1s-1-alternate_reverse {
+  -webkit-animation: spin 1s 1 alternate-reverse;
+  -moz-animation: spin 1s 1 alternate-reverse;
+  -ms-animation: spin 1s 1 alternate-reverse;
+  -o-animation: spin 1s 1 alternate-reverse;
+  animation: spin 1s 1 alternate-reverse;
+}
 
 .spicon-1s-2-alternate_reverse {
   -webkit-animation: spin 1s 2 alternate-reverse;
@@ -240,6 +272,14 @@
 
 /* Spicon 2s-x-normal classes */
 
+.spicon-2s-1-normal {
+  -webkit-animation: spin 2s 1 normal;
+  -moz-animation: spin 2s 1 normal;
+  -ms-animation: spin 2s 1 normal;
+  -o-animation: spin 2s 1 normal;
+  animation: spin 2s 1 normal;
+}
+
 .spicon-2s-2-normal {
   -webkit-animation: spin 2s 2 normal;
   -moz-animation: spin 2s 2 normal;
@@ -281,6 +321,14 @@
 }
 
 /* Spicon 2s-x-reverse classes */
+
+.spicon-2s-1-reverse {
+  -webkit-animation: spin 2s 1 reverse;
+  -moz-animation: spin 2s 1 reverse;
+  -ms-animation: spin 2s 1 reverse;
+  -o-animation: spin 2s 1 reverse;
+  animation: spin 2s 1 reverse;
+}
 
 .spicon-2s-2-reverse {
   -webkit-animation: spin 2s 2 reverse;
@@ -324,6 +372,14 @@
 
 /* Spicon 2s-x-alternate classes */
 
+.spicon-2s-1-alternate {
+  -webkit-animation: spin 2s 1 alternate;
+  -moz-animation: spin 2s 1 alternate;
+  -ms-animation: spin 2s 1 alternate;
+  -o-animation: spin 2s 1 alternate;
+  animation: spin 2s 1 alternate;
+}
+
 .spicon-2s-2-alternate {
   -webkit-animation: spin 2s 2 alternate;
   -moz-animation: spin 2s 2 alternate;
@@ -365,6 +421,14 @@
 }
 
 /* Spicon 2s-x-alternate_reverse classes */
+
+.spicon-2s-1-alternate_reverse {
+  -webkit-animation: spin 2s 1 alternate_reverse;
+  -moz-animation: spin 2s 1 alternate_reverse;
+  -ms-animation: spin 2s 1 alternate_reverse;
+  -o-animation: spin 2s 1 alternate_reverse;
+  animation: spin 2s 1 alternate_reverse;
+}
 
 .spicon-2s-2-alternate_reverse {
   -webkit-animation: spin 2s 2 alternate-reverse;
@@ -410,6 +474,14 @@
 
 /* Spicon 3s-x-normal classes */
 
+.spicon-3s-1-normal {
+  -webkit-animation: spin 3s 1 normal;
+  -moz-animation: spin 3s 1 normal;
+  -ms-animation: spin 3s 1 normal;
+  -o-animation: spin 3s 1 normal;
+  animation: spin 3s 1 normal;
+}
+
 .spicon-3s-2-normal {
   -webkit-animation: spin 3s 2 normal;
   -moz-animation: spin 3s 2 normal;
@@ -451,6 +523,14 @@
 }
 
 /* Spicon 3s-x-reverse classes */
+
+.spicon-3s-1-reverse {
+  -webkit-animation: spin 3s 1 reverse;
+  -moz-animation: spin 3s 1 reverse;
+  -ms-animation: spin 3s 1 reverse;
+  -o-animation: spin 3s 1 reverse;
+  animation: spin 3s 1 reverse;
+}
 
 .spicon-3s-2-reverse {
   -webkit-animation: spin 3s 2 reverse;
@@ -494,6 +574,14 @@
 
 /* Spicon 3s-x-alternate classes */
 
+.spicon-3s-1-alternate {
+  -webkit-animation: spin 3s 1 alternate;
+  -moz-animation: spin 3s 1 alternate;
+  -ms-animation: spin 3s 1 alternate;
+  -o-animation: spin 3s 1 alternate;
+  animation: spin 3s 1 alternate;
+}
+
 .spicon-3s-2-alternate {
   -webkit-animation: spin 3s 2 alternate;
   -moz-animation: spin 3s 2 alternate;
@@ -535,6 +623,14 @@
 }
 
 /* Spicon 3s-x-alternate_reverse classes */
+
+.spicon-3s-1-alternate_reverse {
+  -webkit-animation: spin 3s 1 alternate-reverse;
+  -moz-animation: spin 3s 1 alternate-reverse;
+  -ms-animation: spin 3s 1 alternate-reverse;
+  -o-animation: spin 3s 1 alternate-reverse;
+  animation: spin 3s 1 alternate-reverse;
+}
 
 .spicon-3s-2-alternate_reverse {
   -webkit-animation: spin 3s 2 alternate-reverse;
@@ -580,6 +676,14 @@
 
 /* Spicon 4s-x-normal classes */
 
+.spicon-4s-1-normal {
+  -webkit-animation: spin 4s 1 normal;
+  -moz-animation: spin 4s 1 normal;
+  -ms-animation: spin 4s 1 normal;
+  -o-animation: spin 4s 1 normal;
+  animation: spin 4s 1 normal;
+}
+
 .spicon-4s-2-normal {
   -webkit-animation: spin 4s 2 normal;
   -moz-animation: spin 4s 2 normal;
@@ -621,6 +725,14 @@
 }
 
 /* Spicon 4s-x-reverse classes */
+
+.spicon-4s-1-reverse {
+  -webkit-animation: spin 4s 1 reverse;
+  -moz-animation: spin 4s 1 reverse;
+  -ms-animation: spin 4s 1 reverse;
+  -o-animation: spin 4s 1 reverse;
+  animation: spin 4s 1 reverse;
+}
 
 .spicon-4s-2-reverse {
   -webkit-animation: spin 4s 2 reverse;
@@ -664,6 +776,14 @@
 
 /* Spicon 4s-x-alternate classes */
 
+.spicon-4s-1-alternate {
+  -webkit-animation: spin 4s 1 alternate;
+  -moz-animation: spin 4s 1 alternate;
+  -ms-animation: spin 4s 1 alternate;
+  -o-animation: spin 4s 1 alternate;
+  animation: spin 4s 1 alternate;
+}
+
 .spicon-4s-2-alternate {
   -webkit-animation: spin 4s 2 alternate;
   -moz-animation: spin 4s 2 alternate;
@@ -705,6 +825,15 @@
 }
 
 /* Spicon 4s-x-alternate_reverse classes */
+
+.spicon-4s-1-alternate_reverse {
+  -webkit-animation: spin 4s 1 alternate-reverse;
+  -moz-animation: spin 4s 1 alternate-reverse;
+  -ms-animation: spin 4s 1 alternate-reverse;
+  -o-animation: spin 4s 1 alternate-reverse;
+  animation: spin 4s 1 alternate-reverse;
+}
+
 
 .spicon-4s-2-alternate_reverse {
   -webkit-animation: spin 4s 2 alternate-reverse;
@@ -750,6 +879,15 @@
 
 /* Spicon 5s-x-normal classes */
 
+.spicon-5s-1-normal {
+  -webkit-animation: spin 5s 1 normal;
+  -moz-animation: spin 5s 1 normal;
+  -ms-animation: spin 5s 1 normal;
+  -o-animation: spin 5s 1 normal;
+  animation: spin 5s 1 normal;
+}
+
+
 .spicon-5s-2-normal {
   -webkit-animation: spin 5s 2 normal;
   -moz-animation: spin 5s 2 normal;
@@ -791,6 +929,14 @@
 }
 
 /* Spicon 5s-x-reverse classes */
+
+.spicon-5s-1-reverse {
+  -webkit-animation: spin 5s 1 reverse;
+  -moz-animation: spin 5s 1 reverse;
+  -ms-animation: spin 5s 1 reverse;
+  -o-animation: spin 5s 1 reverse;
+  animation: spin 5s 1 reverse;
+}
 
 .spicon-5s-2-reverse {
   -webkit-animation: spin 5s 2 reverse;
@@ -834,6 +980,14 @@
 
 /* Spicon 5s-x-alternate classes */
 
+.spicon-5s-1-alternate {
+  -webkit-animation: spin 5s 1 alternate;
+  -moz-animation: spin 5s 1 alternate;
+  -ms-animation: spin 5s 1 alternate;
+  -o-animation: spin 5s 1 alternate;
+  animation: spin 5s 1 alternate;
+}
+
 .spicon-5s-2-alternate {
   -webkit-animation: spin 5s 2 alternate;
   -moz-animation: spin 5s 2 alternate;
@@ -875,6 +1029,14 @@
 }
 
 /* Spicon 5s-x-alternate_reverse classes */
+
+.spicon-5s-1-alternate_reverse {
+  -webkit-animation: spin 5s 1 alternate-reverse;
+  -moz-animation: spin 5s 1 alternate-reverse;
+  -ms-animation: spin 5s 1 alternate-reverse;
+  -o-animation: spin 5s 1 alternate-reverse;
+  animation: spin 5s 1 alternate-reverse;
+}
 
 .spicon-5s-2-alternate_reverse {
   -webkit-animation: spin 5s 2 alternate-reverse;
@@ -920,6 +1082,15 @@
 
 /* Spicon 6s-x-normal classes */
 
+.spicon-6s-1-normal {
+  -webkit-animation: spin 6s 1 normal;
+  -moz-animation: spin 6s 1 normal;
+  -ms-animation: spin 6s 1 normal;
+  -o-animation: spin 6s 1 normal;
+  animation: spin 6s 1 normal;
+}
+
+
 .spicon-6s-2-normal {
   -webkit-animation: spin 6s 2 normal;
   -moz-animation: spin 6s 2 normal;
@@ -961,6 +1132,14 @@
 }
 
 /* Spicon 6s-x-reverse classes */
+
+.spicon-6s-1-reverse {
+  -webkit-animation: spin 6s 1 reverse;
+  -moz-animation: spin 6s 1 reverse;
+  -ms-animation: spin 6s 1 reverse;
+  -o-animation: spin 6s 1 reverse;
+  animation: spin 6s 1 reverse;
+}
 
 .spicon-6s-2-reverse {
   -webkit-animation: spin 6s 2 reverse;
@@ -1004,6 +1183,14 @@
 
 /* Spicon 6s-x-alternate classes */
 
+.spicon-6s-1-alternate {
+  -webkit-animation: spin 6s 1 alternate;
+  -moz-animation: spin 6s 1 alternate;
+  -ms-animation: spin 6s 1 alternate;
+  -o-animation: spin 6s 1 alternate;
+  animation: spin 6s 1 alternate;
+}
+
 .spicon-6s-2-alternate {
   -webkit-animation: spin 6s 2 alternate;
   -moz-animation: spin 6s 2 alternate;
@@ -1045,6 +1232,14 @@
 }
 
 /* Spicon 6s-x-alternate_reverse classes */
+
+.spicon-6s-1-alternate_reverse {
+  -webkit-animation: spin 6s 1 alternate-reverse;
+  -moz-animation: spin 6s 1 alternate-reverse;
+  -ms-animation: spin 6s 1 alternate-reverse;
+  -o-animation: spin 6s 1 alternate-reverse;
+  animation: spin 6s 1 alternate-reverse;
+}
 
 .spicon-6s-2-alternate_reverse {
   -webkit-animation: spin 6s 2 alternate-reverse;
@@ -1090,6 +1285,14 @@
 
 /* Spicon 7s-x-normal classes */
 
+.spicon-7s-1-normal {
+  -webkit-animation: spin 7s 1 normal;
+  -moz-animation: spin 7s 1 normal;
+  -ms-animation: spin 7s 1 normal;
+  -o-animation: spin 7s 1 normal;
+  animation: spin 7s 1 normal;
+}
+
 .spicon-7s-2-normal {
   -webkit-animation: spin 7s 2 normal;
   -moz-animation: spin 7s 2 normal;
@@ -1131,6 +1334,14 @@
 }
 
 /* Spicon 7s-x-reverse classes */
+
+.spicon-7s-1-reverse {
+  -webkit-animation: spin 7s 1 reverse;
+  -moz-animation: spin 7s 1 reverse;
+  -ms-animation: spin 7s 1 reverse;
+  -o-animation: spin 7s 1 reverse;
+  animation: spin 7s 1 reverse;
+}
 
 .spicon-7s-2-reverse {
   -webkit-animation: spin 7s 2 reverse;
@@ -1174,6 +1385,14 @@
 
 /* Spicon 7s-x-alternate classes */
 
+.spicon-7s-1-alternate {
+  -webkit-animation: spin 7s 1 alternate;
+  -moz-animation: spin 7s 1 alternate;
+  -ms-animation: spin 7s 1 alternate;
+  -o-animation: spin 7s 1 alternate;
+  animation: spin 7s 1 alternate;
+}
+
 .spicon-7s-2-alternate {
   -webkit-animation: spin 7s 2 alternate;
   -moz-animation: spin 7s 2 alternate;
@@ -1215,6 +1434,14 @@
 }
 
 /* Spicon 7s-x-alternate_reverse classes */
+
+.spicon-7s-1-alternate_reverse {
+  -webkit-animation: spin 7s 1 alternate-reverse;
+  -moz-animation: spin 7s 1 alternate-reverse;
+  -ms-animation: spin 7s 1 alternate-reverse;
+  -o-animation: spin 7s 1 alternate-reverse;
+  animation: spin 7s 1 alternate-reverse;
+}
 
 .spicon-7s-2-alternate_reverse {
   -webkit-animation: spin 7s 2 alternate-reverse;
@@ -1260,6 +1487,14 @@
 
 /* Spicon 8s-x-normal classes */
 
+.spicon-8s-1-normal {
+  -webkit-animation: spin 8s 1 normal;
+  -moz-animation: spin 8s 1 normal;
+  -ms-animation: spin 8s 1 normal;
+  -o-animation: spin 8s 1 normal;
+  animation: spin 8s 1 normal;
+}
+
 .spicon-8s-2-normal {
   -webkit-animation: spin 8s 2 normal;
   -moz-animation: spin 8s 2 normal;
@@ -1301,6 +1536,14 @@
 }
 
 /* Spicon 8s-x-reverse classes */
+
+.spicon-8s-1-reverse {
+  -webkit-animation: spin 8s 1 reverse;
+  -moz-animation: spin 8s 1 reverse;
+  -ms-animation: spin 8s 1 reverse;
+  -o-animation: spin 8s 1 reverse;
+  animation: spin 8s 1 reverse;
+}
 
 .spicon-8s-2-reverse {
   -webkit-animation: spin 8s 2 reverse;
@@ -1344,6 +1587,14 @@
 
 /* Spicon 8s-x-alternate classes */
 
+.spicon-8s-1-alternate {
+  -webkit-animation: spin 8s 1 alternate;
+  -moz-animation: spin 8s 1 alternate;
+  -ms-animation: spin 8s 1 alternate;
+  -o-animation: spin 8s 1 alternate;
+  animation: spin 8s 1 alternate;
+}
+
 .spicon-8s-2-alternate {
   -webkit-animation: spin 8s 2 alternate;
   -moz-animation: spin 8s 2 alternate;
@@ -1385,6 +1636,14 @@
 }
 
 /* Spicon 8s-x-alternate_reverse classes */
+
+.spicon-8s-1-alternate_reverse {
+  -webkit-animation: spin 8s 1 alternate-reverse;
+  -moz-animation: spin 8s 1 alternate-reverse;
+  -ms-animation: spin 8s 1 alternate-reverse;
+  -o-animation: spin 8s 1 alternate-reverse;
+  animation: spin 8s 1 alternate-reverse;
+}
 
 .spicon-8s-2-alternate_reverse {
   -webkit-animation: spin 8s 2 alternate-reverse;
@@ -1430,6 +1689,14 @@
 
 /* Spicon 9s-x-normal classes */
 
+.spicon-9s-1-normal {
+  -webkit-animation: spin 9s 1 normal;
+  -moz-animation: spin 9s 1 normal;
+  -ms-animation: spin 9s 1 normal;
+  -o-animation: spin 9s 1 normal;
+  animation: spin 9s 1 normal;
+}
+
 .spicon-9s-2-normal {
   -webkit-animation: spin 9s 2 normal;
   -moz-animation: spin 9s 2 normal;
@@ -1471,6 +1738,14 @@
 }
 
 /* Spicon 9s-x-reverse classes */
+
+.spicon-9s-1-reverse {
+  -webkit-animation: spin 9s 1 reverse;
+  -moz-animation: spin 9s 1 reverse;
+  -ms-animation: spin 9s 1 reverse;
+  -o-animation: spin 9s 1 reverse;
+  animation: spin 9s 1 reverse;
+}
 
 .spicon-9s-2-reverse {
   -webkit-animation: spin 9s 2 reverse;
@@ -1514,6 +1789,14 @@
 
 /* Spicon 9s-x-alternate classes */
 
+.spicon-9s-1-alternate {
+  -webkit-animation: spin 9s 1 alternate;
+  -moz-animation: spin 9s 1 alternate;
+  -ms-animation: spin 9s 1 alternate;
+  -o-animation: spin 9s 1 alternate;
+  animation: spin 9s 1 alternate;
+}
+
 .spicon-9s-2-alternate {
   -webkit-animation: spin 9s 2 alternate;
   -moz-animation: spin 9s 2 alternate;
@@ -1555,6 +1838,14 @@
 }
 
 /* Spicon 9s-x-alternate_reverse classes */
+
+.spicon-9s-1-alternate_reverse {
+  -webkit-animation: spin 9s 1 alternate-reverse;
+  -moz-animation: spin 9s 1 alternate-reverse;
+  -ms-animation: spin 9s 1 alternate-reverse;
+  -o-animation: spin 9s 1 alternate-reverse;
+  animation: spin 9s 1 alternate-reverse;
+}
 
 .spicon-9s-2-alternate_reverse {
   -webkit-animation: spin 9s 2 alternate-reverse;
@@ -1600,6 +1891,14 @@
 
 /* Spicon 10s-x-normal classes */
 
+.spicon-10s-1-normal {
+  -webkit-animation: spin 10s 1 normal;
+  -moz-animation: spin 10s 1 normal;
+  -ms-animation: spin 10s 1 normal;
+  -o-animation: spin 10s 1 normal;
+  animation: spin 10s 1 normal;
+}
+
 .spicon-10s-2-normal {
   -webkit-animation: spin 10s 2 normal;
   -moz-animation: spin 10s 2 normal;
@@ -1641,6 +1940,14 @@
 }
 
 /* Spicon 10s-x-reverse classes */
+
+.spicon-10s-1-reverse {
+  -webkit-animation: spin 10s 1 reverse;
+  -moz-animation: spin 10s 1 reverse;
+  -ms-animation: spin 10s 1 reverse;
+  -o-animation: spin 10s 1 reverse;
+  animation: spin 10s 1 reverse;
+}
 
 .spicon-10s-2-reverse {
   -webkit-animation: spin 10s 2 reverse;
@@ -1684,6 +1991,14 @@
 
 /* Spicon 10s-x-alternate classes */
 
+.spicon-10s-1-alternate {
+  -webkit-animation: spin 10s 1 alternate;
+  -moz-animation: spin 10s 1 alternate;
+  -ms-animation: spin 10s 1 alternate;
+  -o-animation: spin 10s 1 alternate;
+  animation: spin 10s 1 alternate;
+}
+
 .spicon-10s-2-alternate {
   -webkit-animation: spin 10s 2 alternate;
   -moz-animation: spin 10s 2 alternate;
@@ -1725,6 +2040,14 @@
 }
 
 /* Spicon 10s-x-alternate_reverse classes */
+
+.spicon-10s-1-alternate_reverse {
+  -webkit-animation: spin 10s 1 alternate-reverse;
+  -moz-animation: spin 10s 1 alternate-reverse;
+  -ms-animation: spin 10s 1 alternate-reverse;
+  -o-animation: spin 10s 1 alternate-reverse;
+  animation: spin 10s 1 alternate-reverse;
+}
 
 .spicon-10s-2-alternate_reverse {
   -webkit-animation: spin 10s 2 alternate-reverse;
