@@ -45,7 +45,7 @@ When using customized classes make sure you use it in the following format :
 
 for instance,
 
-	.spicon-4s-2-reverse	
+	.spicon-4s-2-alternate_reverse	
 
 + The first attribute represents the `duration of the spin` in seconds. Accordigly you can specify a number of your choice ranging from `1s(fastest) to 10s(slowest)`
 
