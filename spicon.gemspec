@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary     = "Cool feature that makes any element on your Rails application spin on mouseover."
   spec.description = "Cool feature that makes any element on your Rails application spin on mouseover."
 
-  s.files = ["lib/spicon.rb"]
+  spec.files = ["lib/spicon.rb"]
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "bundler", "~> 1.3"
