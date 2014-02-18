@@ -13,7 +13,10 @@ Gem::Specification.new do |spec|
 
   spec.files = ["lib/spicon.rb"]
   spec.require_paths = ["lib"]
+  spec.license        = "MIT"
+  spec.files          = `git ls-files`.split($/)
 
+  spec.add_dependency "rails", "> 2.3", "< 5"
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
 end
