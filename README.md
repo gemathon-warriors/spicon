@@ -3,6 +3,10 @@
 
 > Cool feature that makes any element on your Rails application spin on mouseover.
 
+## Demo
+
+  [See spicon in action!](http://spicon.herokuapp.com)
+
 ## Supports
 
     Rails 2.3+
