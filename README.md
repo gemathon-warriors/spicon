@@ -49,13 +49,13 @@ for instance,
 
 + The first attribute represents the `duration of the spin` in seconds. Accordigly you can specify a number of your choice ranging from `1s(fastest) to 10s(slowest)`
 
-+ The second attribute represents the `number of spins` ranging from `2 to 6`. You can also use `infinite` instead of a number for infinite spins.
++ The second attribute represents the `number of spins` ranging from `1 to 6`. You can also use `infinite` instead of a number for infinite spins.
 
 + The third attribute represents the `direction of spin`, various options are
 	- `normal` - Spins in clockwise direction
 	- `reverse` - Spins in anti-clockwise direction
 	- `alternate` - Spins in clockwise direction first and then anticlockwise alternately
-	- `alternate-reverse` - Spins in anti-clockwise direction first and then clockwise alternately
+	- `alternate_reverse` - Spins in anti-clockwise direction first and then clockwise alternately
 
 ## Contributing
 
