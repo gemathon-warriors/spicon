@@ -45,21 +45,23 @@ By using `.spicon` class by default the element will spin for `2 secs(2000ms)`, 
 
 When using customized classes make sure you use it in the following format :
 
-    .spicon-{duration of the spin}-{number of spins}-{direction of the spin}
+    .spicon-spin.duration-{duration of the spin}s.iteration-{number of spins}.{direction of the spin}
 
 for instance,
 
-	.spicon-4s-2-alternate_reverse	
+	.spicon-spin.duration-4s.iteration-2.alternate-reverse	
 
-+ The first attribute represents the `duration of the spin` in seconds. Accordigly you can specify a number of your choice ranging from `1s(fastest) to 10s(slowest)`
++ The first class represents spicon-spin which will just spin the icon
 
-+ The second attribute represents the `number of spins` ranging from `1 to 6`. You can also use `infinite` instead of a number for infinite spins.
++ The second class represents the `duration of the spin` in seconds. Accordigly you can specify a number of your choice ranging from `1s(fastest) to 10s(slowest)`
 
-+ The third attribute represents the `direction of spin`, various options are
++ The third class represents the `number of spins` ranging from `1 to 6`. You can also use `infinite` instead of a number for infinite spins.
+
++ The fourth class represents the `direction of spin`, various options are
 	- `normal` - Spins in clockwise direction
 	- `reverse` - Spins in anti-clockwise direction
 	- `alternate` - Spins in clockwise direction first and then anticlockwise alternately
-	- `alternate_reverse` - Spins in anti-clockwise direction first and then clockwise alternately
+	- `alternate-reverse` - Spins in anti-clockwise direction first and then clockwise alternately
 
 ## Contributing
 
